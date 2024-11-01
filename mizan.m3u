@@ -63,14 +63,14 @@ http://30.30.30.30:8088/306/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="HINDI", StarPlus HD
 http://30.30.30.30:8088/401/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="HINDI", StarPlus HD
-http://30.30.30.30:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="HINDI", STAR GOLD
+http://30.30.30.30:8088/402/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="HINDI", StarPlus HD
-http://30.30.30.30:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5q_sYuVeQFJssef35EGgNkeznqMbrywG7g&s" group-title="HINDI", SONY
+http://30.30.30.30:8088/403/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="HINDI", StarPlus HD
-http://30.30.30.30:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="HINDI", colors HD
+http://30.30.30.30:8088/405/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="HINDI", StarPlus HD
 http://30.30.30.30:8088/401/tracks-v1a1/mono.m3u8
