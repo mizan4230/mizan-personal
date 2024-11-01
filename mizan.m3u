@@ -6,6 +6,14 @@ http://30.30.30.30:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS", GTV
 http://30.30.30.30:8088/106/tracks-v1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20240313195004
-" group-title="SPORTS", HD2 STAR SPORTS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest?cb=20240313195004" group-title="SPORTS", HD2 STAR SPORTS
 http://30.30.30.30:8088/115/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20240319123400" group-title="SPORTS", SONY TEN 1
+http://30.30.30.30:8088/119/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="SPORTS", SONY TEN 2
+http://30.30.30.30:8088/120/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SPORTS", SONY TEN 3
+http://30.30.30.30:8088/121/tracks-v1a1/mono.m3u8
