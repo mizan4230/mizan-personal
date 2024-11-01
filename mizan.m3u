@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T-sports HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", Tsports HD
 http://30.30.30.30:8088/102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="SPORTS", GTV
@@ -17,3 +17,50 @@ http://30.30.30.30:8088/120/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="SPORTS", SONY TEN 3
 http://30.30.30.30:8088/121/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png/revision/latest?cb=20230128174313" group-title="SPORTS", 1HD STAR SPORTS SELECT
+http://30.30.30.30:8088/123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="SPORTS", 1SPORTS
+http://30.30.30.30:8088/129/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/MGM_Television_logo.png/220px-MGM_Television_logo.png" group-title="SPORTS", TTV
+http://30.30.30.30:8088/130/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Independent_Television_%28Bangladesh%29#/media/File:Independent_Television_Logo.svg" group-title="BANGLA", INDEPENDENT TV
+http://30.30.30.30:8088/201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATN_Bangla.svg" group-title="BANGLA", ATN BANGLA
+http://30.30.30.30:8088/202/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLA", ATN NEWS
+http://30.30.30.30:8088/203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png" group-title="BANGLA", DBC
+http://30.30.30.30:8088/204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA", maasranga television
+http://30.30.30.30:8088/206/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="BANGLA", CHANNEL I
+http://30.30.30.30:8088/207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="INDIA-BANGLA", ZEE বাংলা
+http://30.30.30.30:8088/301/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="INDIA-BANGLA", Star জলসা HD
+http://30.30.30.30:8088/302/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
