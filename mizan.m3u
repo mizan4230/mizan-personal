@@ -72,5 +72,26 @@ http://30.30.30.30:8088/403/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="HINDI", colors HD
 http://30.30.30.30:8088/405/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="HINDI", StarPlus HD
-http://30.30.30.30:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="ENGLISH", MOVIES HD
+http://30.30.30.30:8088/501/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="ENGLISH", SONY PIX
+http://30.30.30.30:8088/503/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/220px-Nick_logo_2009.svg.png" group-title="KIDS", nick
+http://30.30.30.30:8088/601/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS", CN HD+
+http://30.30.30.30:8088/602/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_CB_Channel.png" group-title="MUSIC", CB
+http://30.30.30.30:8088/701/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="MUSIC", SANGEET বাংলা
+http://30.30.30.30:8088/702/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="DOCUMENTARY", DISCOVERY HD
+http://30.30.30.30:8088/801/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISwurU0wqGEG4_wdcJIrL-rD3KdcRKAZU2g&s" group-title="DOCUMENTARY", NATIONAL GEOGRAPHIC
+http://30.30.30.30:8088/802/tracks-v1a1/mono.m3u8
